@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rana Shivang Singh</h1>
-<h3 align="center">A Passionate Full Stack And Web3 Developer From India</h3>
+<h3 align="center">
+  A Passionate Full Stack, AI/ML, and Web3 Enthusiast From India
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=singhranashivang&label=Profile%20views&color=0e75b6&style=flat" alt="singhranashivang" /> </p>
 
